@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {createDocument, loadDocuments} from './documentService'
+import {createDocument, loadDocuments} from './api/documentService'
 
 class App extends Component {
 
